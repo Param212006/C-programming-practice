@@ -1,0 +1,6 @@
+while
+while loop is entry control loop
+a while is pre test loop
+do-while
+do-while is a exit control loop
+do-while is a post test loop
