@@ -6,5 +6,5 @@ int calculator(int x)
 }
 int main(){
     int a=5
-    printf
+    
 }
