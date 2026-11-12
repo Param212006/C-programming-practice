@@ -12,5 +12,5 @@ int main(){
             c++;
         }
     }
-    printf("Total character is: %d",c);
+    printf("Total character is: %d",c);//free life
 }
