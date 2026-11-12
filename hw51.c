@@ -4,7 +4,7 @@
 int main(){
     char name[50];
     puts("enter any string :");
-    fgets(name,sizeof(name),stdin);
+    fgets(name,sizeof(name),stdin);//d2b5
     int len=strlen(name);
     int i, c=0;
     for(i=0;i<len;i++){
