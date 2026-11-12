@@ -6,7 +6,7 @@ int main(){
     puts("enter any string :");
     fgets(name,sizeof(name),stdin);//d2b5
     int len=strlen(name);
-    int i, c=0;
+    int i, c=0;//new life new rules
     for(i=0;i<len;i++){
         if(name[i]>='A'&& name[i]<='Z'){
             c++;
